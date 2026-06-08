@@ -1,0 +1,11 @@
+# API
+requests>=2.32.0
+
+# Environment variables
+python-dotenv>=1.0.1
+
+# Browser automation
+playwright>=1.52.0
+
+# Logging / console output
+rich>=14.0.0
